@@ -28,11 +28,11 @@ section {
     background-color: aqua;
 }
 
-.Contact-button {
+.link-button {
     text-decoration: none;
-    background-image: linear-gradient(white, red);
+    background-image: linear-gradient(blue, blueviolet);
     padding: 10px 40px;
-    color: blueviolet;
-    font-weight: 700;
+    color: white;
+    font-weight: bold;
     border-radius: 10px;
 }
