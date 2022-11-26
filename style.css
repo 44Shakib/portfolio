@@ -23,3 +23,16 @@ section {
     width: 70%;
     padding: 10%;
 }
+
+.background-color {
+    background-color: aqua;
+}
+
+.Contact-button {
+    text-decoration: none;
+    background-image: linear-gradient(white, red);
+    padding: 10px 40px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 10px;
+}
